@@ -130,7 +130,7 @@ contains
                 end do
             end do
         end do
-    end subroutine waste_more_time
+    end subroutine subroutine_2
 
 
     subroutine reconstruct_message(input_characters, amount)
